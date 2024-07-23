@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Morgan Mithamo alias MorganTheAnalyst
+- 👋 Hi, I’m Morgan Mithamo alias MorganTheAnalyst
 - 👀 I’m interested in DataScience|DataAnalysis|Machine Learning|Artificial Intelligence
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning by working on real world projects
 - 💞️ I’m looking to collaborate on programming and datascience related projects
-- 📫 How to reach me: Gmail-mithamomorgan@gmail.com
+- 📫 How to reach me: mithamomorgan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am passionate about data
 
