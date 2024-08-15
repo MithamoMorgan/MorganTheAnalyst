@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming and datascience related projects
 - 📫 How to reach me: mithamomorgan@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am passionate about data
+- ⚡ Fun fact: I am a data junkie
 
 <!---
 MorganTheAnalyst/MorganTheAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
